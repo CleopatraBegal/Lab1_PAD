@@ -1,0 +1,7 @@
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\bin\Debug\Lab1_PAD_by_Viorel.exe.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\bin\Debug\Lab1_PAD_by_Viorel.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\bin\Debug\Lab1_PAD_by_Viorel.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\obj\Debug\Lab1_PAD.csprojAssemblyReference.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\obj\Debug\Lab1_PAD.csproj.CoreCompileInputs.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\obj\Debug\Lab1_PAD_by_Viorel.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Lab1_PAD\obj\Debug\Lab1_PAD_by_Viorel.pdb

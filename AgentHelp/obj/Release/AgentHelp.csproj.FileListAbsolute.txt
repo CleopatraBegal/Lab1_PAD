@@ -1,0 +1,12 @@
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\AgentHelp\bin\Release\AgentHelp.dll.config
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\AgentHelp\bin\Release\AgentHelp.dll
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\AgentHelp\bin\Release\AgentHelp.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\AgentHelp\obj\Release\AgentHelp.dll
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\AgentHelp\obj\Release\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Release\AgentHelp.dll.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Release\AgentHelp.dll
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Release\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Release\AgentHelp.csprojAssemblyReference.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Release\AgentHelp.csproj.CoreCompileInputs.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Release\AgentHelp.dll
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Release\AgentHelp.pdb

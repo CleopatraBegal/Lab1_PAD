@@ -1,0 +1,19 @@
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\bin\Release\Sender.exe.config
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\bin\Release\Sender.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\bin\Release\Sender.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\bin\Release\AgentHelp.dll
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\bin\Release\AgentHelp.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\obj\Release\Sender.csprojResolveAssemblyReference.cache
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\obj\Release\Sender.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Sender\obj\Release\Sender.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\Sender.exe.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\Sender.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\Sender.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\AgentHelp.dll
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\bin\Release\AgentHelp.dll.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\obj\Release\Sender.csprojAssemblyReference.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\obj\Release\Sender.csproj.CoreCompileInputs.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\obj\Release\Sender.csproj.CopyComplete
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\obj\Release\Sender.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Sender\obj\Release\Sender.pdb

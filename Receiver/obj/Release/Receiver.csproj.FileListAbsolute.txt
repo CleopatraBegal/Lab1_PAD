@@ -1,0 +1,5 @@
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Receiver\bin\Release\Receiver.exe.config
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Receiver\bin\Release\Receiver.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Receiver\bin\Release\Receiver.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Receiver\obj\Release\Receiver.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Receiver\obj\Release\Receiver.pdb

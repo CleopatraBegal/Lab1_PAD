@@ -1,0 +1,13 @@
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\obj\Debug\AgentHelp.csprojResolveAssemblyReference.cache
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\bin\Debug\AgentHelp.dll.config
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\bin\Debug\AgentHelp.dll
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\bin\Debug\AgentHelp.pdb
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\obj\Debug\AgentHelp.dll
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\AgentHelp\obj\Debug\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Debug\AgentHelp.dll.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Debug\AgentHelp.dll
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\bin\Debug\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Debug\AgentHelp.csproj.CoreCompileInputs.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Debug\AgentHelp.dll
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Debug\AgentHelp.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\AgentHelp\obj\Debug\AgentHelp.csprojAssemblyReference.cache

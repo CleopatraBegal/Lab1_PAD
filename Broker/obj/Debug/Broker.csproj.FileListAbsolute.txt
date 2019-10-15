@@ -1,0 +1,25 @@
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe.config
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.pdb
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.exe
+c:\users\vior\documents\visual studio 2015\Projects\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe.config
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.pdb
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe.config
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.exe
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.pdb
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.exe
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Debug\Broker.pdb
+C:\Users\ViOR\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\bin\Debug\Broker.exe.config
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\bin\Debug\Broker.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\bin\Debug\Broker.pdb
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\obj\Debug\Broker.csprojAssemblyReference.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\obj\Debug\Broker.exe
+D:\IT student\ANUL IV\PAD\Lab1_PAD\Broker\obj\Debug\Broker.pdb

@@ -1,0 +1,6 @@
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Release\Broker.exe.config
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Release\Broker.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\bin\Release\Broker.pdb
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Release\Broker.csprojResolveAssemblyReference.cache
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Release\Broker.exe
+C:\Users\ViO\Desktop\Lab1_PAD_by_Viorel\Broker\obj\Release\Broker.pdb
